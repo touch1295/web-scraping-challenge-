@@ -225,5 +225,5 @@ def scrape_mars_hemispheres():
 
         browser.quit()
 if __name__ == "__main__":
-	# If running as script, print scraped data
-	print( scrape_mars_news())
+    # If running as script, print scraped data
+    print( scrape_mars_news())
